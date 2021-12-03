@@ -1,0 +1,23 @@
+.box{
+    margin: auto;
+    width: 13%;
+    padding: 2px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+}
+.main{
+    text-align: center;
+    margin-top: 10%;
+}
+.main .box input{
+    width: 40%;
+    font-size: 24px;
+    margin:0px 2px ;
+    text-align: center;
+}
+@media screen and (max-width : 800px) {
+    .box{
+        width: 40%;
+    }
+}
