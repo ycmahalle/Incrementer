@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Incrementer/static/css/main.4b093f16.chunk.css",
+    "main.js": "/Incrementer/static/js/main.a3b44cfc.chunk.js",
+    "main.js.map": "/Incrementer/static/js/main.a3b44cfc.chunk.js.map",
+    "runtime-main.js": "/Incrementer/static/js/runtime-main.9d7ea510.js",
+    "runtime-main.js.map": "/Incrementer/static/js/runtime-main.9d7ea510.js.map",
+    "static/js/2.391e1afc.chunk.js": "/Incrementer/static/js/2.391e1afc.chunk.js",
+    "static/js/2.391e1afc.chunk.js.map": "/Incrementer/static/js/2.391e1afc.chunk.js.map",
+    "index.html": "/Incrementer/index.html",
+    "static/css/main.4b093f16.chunk.css.map": "/Incrementer/static/css/main.4b093f16.chunk.css.map",
+    "static/js/2.391e1afc.chunk.js.LICENSE.txt": "/Incrementer/static/js/2.391e1afc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d7ea510.js",
+    "static/js/2.391e1afc.chunk.js",
+    "static/css/main.4b093f16.chunk.css",
+    "static/js/main.a3b44cfc.chunk.js"
+  ]
+}
